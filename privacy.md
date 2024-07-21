@@ -10,4 +10,4 @@ $product does not collect, use, or store any personal information that can be us
 {{ product }} stores the following information in a permanent database that is available to all the devices attached to your icloud account:
 - all defined counters and their configuration informtion
 - all defined counter sets
-- for counters that record a timestamp or location, the geographical (map) coordiantes of each count event (click)
+- for counters that record a timestamp or location, the geographical (map) coordinates of each count event (click)
